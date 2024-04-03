@@ -7,3 +7,5 @@ Todolist component used to manage the added or delted items.
 We have managed the state of of todos using useState
 
 And all other UI is managed in App.js using tailwind css
+
+To view the project visit the link- https://list23.netlify.app
