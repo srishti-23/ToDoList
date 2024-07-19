@@ -42,7 +42,7 @@ function App() {
       >
         <div className="container mt-4 flex items-center justify-center">
           <div class=" rounded-2xl box-border w-80 h-96 border-4 border-neutral-100	">
-            <h2 class="text-3xl font-extrabold dark:text-white  mt-4">
+            <h2 class="text-3xl font-extrabold text-white  mt-4">
               TO DO LIST<br></br>
             </h2>
             <div className="flex justify-between">
